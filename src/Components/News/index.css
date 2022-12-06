@@ -1,0 +1,14 @@
+.card.news-card {
+	text-align: center;
+	box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.card-header.theme {
+	background-color: #212529;
+	color: white;
+}
+.card-title.news-title {
+	height: 65px;
+}
+.card-text.news-description {
+	height: 72px;
+}
